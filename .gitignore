@@ -1,0 +1,10 @@
+# Jekyll build output and local dependencies
+_site/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+.bundle/
+Gemfile.lock
+
+# macOS
+.DS_Store

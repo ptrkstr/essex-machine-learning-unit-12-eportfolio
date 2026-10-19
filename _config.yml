@@ -1,0 +1,11 @@
+title: Machine Learning e-Portfolio
+description: Individual learning and development e-portfolio for the Machine Learning module (PCOM7E), University of Essex Online.
+theme: jekyll-theme-cayman
+show_downloads: false
+
+# Exclude non-content files from the built site.
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
